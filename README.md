@@ -14,6 +14,8 @@ TODO:
   - Loop Contructs (Big O)
 - Add block - inform other peer nodes
 
+Reference: https://github.com/bitcoin/bitcoin
+
 
 
 
