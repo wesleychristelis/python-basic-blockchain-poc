@@ -1,0 +1,6 @@
+MINING_REWARD = 10
+
+
+
+
+
